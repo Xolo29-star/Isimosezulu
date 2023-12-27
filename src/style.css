@@ -1,5 +1,5 @@
 body {
-  background-color: #f9f7fe;
+  background-color: plum;
   font-family: "Roboto", sans-serif;
 }
 
@@ -8,7 +8,7 @@ a {
 }
 
 .weather-app {
-  background: white;
+  background: rgba(252, 224, 239, 0.502);
   max-width: 600px;
   margin: 45px auto;
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
@@ -17,7 +17,7 @@ a {
 }
 
 header {
-  border-bottom: 1px solid #f9f7fe;
+  border-bottom: 1px solid #abaaad;
   padding: 0 0 30px 0;
 }
 
@@ -31,7 +31,7 @@ header {
 }
 
 .search-form-button {
-  background: #885df1;
+  background: lightpink;
   padding: 15px 30px;
   border: none;
   font-size: 16px;
